@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github.com/user-attachments/assets/2fa69fb4-7164-4e99-b1b8-e269a203c3d1" alt="Latest build" /></a>
+  <a href="https://share.google/JRW9BD6XQbfXpWudB"><img src="https://github.com/user-attachments/assets/2fa69fb4-7164-4e99-b1b8-e269a203c3d1" alt="Latest build" /></a>
 </p>
 
 ---
@@ -56,7 +56,6 @@ Most driver tools either automate too aggressively — installing whatever they 
 <table>
 <tr>
 <td width="45%" valign="top">
-<br>
 <br>
 <br>
 <br>
